@@ -1,0 +1,4 @@
+app:
+  gitHubUrl: https://api.github.com
+spring:
+  jackson.default-property-inclusion: non_empty
